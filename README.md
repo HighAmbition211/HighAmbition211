@@ -1,4 +1,4 @@
-![](asstes/Welcome.svg)
+![](assets/Welcome.svg)
 
 # 💫 About Me 
 
