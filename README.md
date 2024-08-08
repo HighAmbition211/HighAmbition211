@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
+
 # 💫 About Me 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&center=true&vCenter=true&width=670&height=100&lines=Full+Stack+Developer;Proficient+in+Blockchain+development;Data+scraping+and+automation+expert;8%2B+years+experience;Always+learning+new+tech;Try!+Try!+and+Try!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&center=true&vCenter=true&width=670&height=100&lines=Full+Stack+Developer;Proficient+in+Blockchain+development;Data+scraping+and+automation+expert;8%2B+years+experience;Always+learning+new+tech;Try!+Try!+and+Try!" alt="Typing SVG" />
 </div>
 
 <br/>
