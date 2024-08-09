@@ -52,23 +52,19 @@
 <br/><br/>
 
 ### Database
-
 <a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
 <a href=https://www.postgresql.org/""><img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /><br/></a>
 <br/>
 
 ### Tools
-
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/Github.gif" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/aws-icon.svg" />
-<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/docker-icon.svg" />
-<img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/333562/kubernetes.svg" />
-<img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353929/jenkins.svg" /><br/>
-
+<a href="https://github.com/"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/Github.gif" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
+<a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/aws-icon.svg" /></a>
+<a href="https://www.docker.com/"><img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/docker-icon.svg" /></a>
+<a href="https://kubernetes.io/"><img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/333562/kubernetes.svg" /></a>
+<a href="https://www.jenkins.io/"><img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353929/jenkins.svg" /><br/></a>
 <br/><br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="display: flex; align-items: center">
