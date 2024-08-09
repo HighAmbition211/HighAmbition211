@@ -10,11 +10,9 @@
   - 📦 Blockchain enthusiast with 6+ years of experience in designing, developing, and deploying innovative solutions<br/>
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h4>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/><br/>
-
-
 
 <h1> My Skill Sets <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 
@@ -84,15 +82,15 @@
 </div>
 
 ### 
-<div style="display:flex; align-items:center; ">
-  <div>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" /></p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="mightyeagle329" />
-  </div>
-  <div style="display:flex; justify-content:center; align-items:center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" />
-  </div>
-</div>
+<div style="display:flex; align-items:center;">  
+  <div>  
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" /></p>  
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="highambition211" />  
+  </div>  
+  <div style="display:flex; justify-content:center; align-items:center; margin-left: 20px;">  
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" />  
+  </div>  
+</div> 
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
