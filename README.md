@@ -54,8 +54,8 @@
 ### Database
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /><br/></a>
-<br/>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
+<br/><br/>
 
 ### Tools
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/Github.gif" /></a>
@@ -80,5 +80,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" />  
   </a>  
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" />
+
+<h2>If you found this project useful or interesting, please consider giving it a <a><img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> star.</a> If you'd like to use this template, feel free to <a href="https://github.com/HighAmbition211/HighAmbition211/fork">Fork</a> it and customize it to your needs!</h2>
+
+  
+
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" style="margin-top: 20px;" />  
 </div>
