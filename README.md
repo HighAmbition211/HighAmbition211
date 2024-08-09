@@ -32,12 +32,12 @@
 ### Libraries
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/react-icon.svg" />
-<img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
 <img align="left" alt="jQuery" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/redux-icon.svg" />
 <img align="left" alt="Three.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" alt="Web3.js" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" />
-<img align="left" alt="etherjs" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" /><br/>
+<img align="left" alt="etherjs" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" />
+<img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" /><br/>
 <br/>
 
 ### Frameworks
@@ -82,9 +82,7 @@
 <div style="display:flex; align-items:center; justify-content:center">  
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="highambition211" />  
-  <div style="display: flex; align-items: center; justify-content: center">  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" alt="GitHub Streak Stats" />  
-  </div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" /> 
 </div> 
 <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
 alt="footer" />
