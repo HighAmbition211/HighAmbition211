@@ -53,9 +53,9 @@
 
 ### Database
 
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /><br/>
+<a href="https://www.mongodb.com/"><img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
+<a href=https://www.postgresql.org/""><img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
+<a href="https://www.mysql.com/"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /><br/></a>
 <br/>
 
 ### Tools
