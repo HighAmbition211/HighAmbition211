@@ -78,18 +78,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br /><br />
 <div style="display: flex; align-items: center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=venom&height=150&width=500&color=0:6861e3,100:7fd9e0&text=My GitHub Stats&reversal=false&fontColor=000000&fontSize=32"   
-    alt="statistics"/>
-  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
+
+<h1> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px> </h1>
+  
 </div>
 
 ### 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mightyeagle329&show_icons=true&locale=en&layout=compact&theme=onedark" alt="mightyeagle329" /></p>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mightyeagle329&show_icons=true&locale=en&theme=onedark" alt="mightyeagle329" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mightyeagle329&theme=onedark" alt="mightyeagle329" /></p>
-
-### 
-<img src="https://github-profile-trophy.vercel.app/?username=mightyeagle329&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="mightyeagle329" />
+</div>
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
