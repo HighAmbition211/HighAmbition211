@@ -6,10 +6,12 @@
 
 <br/><br/>
 <h4>
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
-- 📦 Blockchain enthusiast with 6+ years of experience in designing, developing, and deploying innovative solutions<br/>
-- 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/><h4><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 📦 Blockchain enthusiast with 6+ years of experience in designing, developing, and deploying innovative solutions<br/>
+  - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
+  - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h4>
 <br/><br/>
 
 
@@ -78,19 +80,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br /><br />
 <div style="display: flex; align-items: center">
-
-<h1> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px> </h1>
-  
+  <h1> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px> </h1>
 </div>
 
 ### 
 <div style="display:flex; align-items:center; ">
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" />
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" /></p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="mightyeagle329" />
   </div>
   <div style="display:flex; justify-content:center; align-items:center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" />
   </div>
 </div>
 <div align="center" width="100">
