@@ -81,7 +81,7 @@
   </a>  
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" />
 
-<h2>If you found this project useful or interesting, please consider giving it a <a href="#"><img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> star.</a> If you'd like to use this template, feel free to <a href="https://github.com/HighAmbition211/HighAmbition211/fork">Fork</a> it and customize it to your needs!</h2>
+<h2>If you found this project useful or interesting, please consider giving it a <a href="https://github.com/HighAmbition211/HighAmbition211/#"><img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> star.</a> If you'd like to use this template, feel free to <a href="https://github.com/HighAmbition211/HighAmbition211/fork">Fork</a> it and customize it to your needs!</h2>
 
   
 
