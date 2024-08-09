@@ -1,8 +1,8 @@
-![](assets/Welcome.svg)
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Welcome.svg" /></a>
 
 <h1> 💫 About Me  </h1>
 
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
 
 <br/><br/>
 <h4>
@@ -68,7 +68,12 @@
 <a href="#-my-skill-sets--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div style="display: flex; align-items: center">
-  <h1> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px> </h1>
+  <h1> 
+    My GitHub Stats 
+    <a href="#-my-github-stats--">
+      <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
+    </a>
+  </h1>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
@@ -81,7 +86,18 @@
   </a>  
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-  <h2>If you found this project useful or interesting, please consider giving it a <a href="https://github.com/HighAmbition211/HighAmbition211/#"><img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> star.</a> If you'd like to use this template, feel free to <a href="https://github.com/HighAmbition211/HighAmbition211/fork">Fork</a> it and customize it to your needs!</h2> 
+  <h2>
+    If you found this project useful or interesting, please consider giving it a 
+    <a href="https://github.com/HighAmbition211/HighAmbition211/#">
+      <img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> 
+      <span style="font-size: 1.5em; color: gold;">Star</span>
+    </a>.
+    If you'd like to use this template, feel free to 
+    <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
+      Fork
+    </a> 
+    it and customize it to your needs!
+  </h2> 
 
   <a href="#"><img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" style="margin-top: 20px;" /></a>
 </div>
