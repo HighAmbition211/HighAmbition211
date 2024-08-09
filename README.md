@@ -42,16 +42,15 @@
 
 ### Frameworks
 
-<img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" />
-<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" />
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
-<img align="left" alt="Tailwind CSS" width="50px" style="padding-right:10px;" src="https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png" />
-<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" />
 <img align="left" alt="Hardhat" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
 <img align="left" alt="Truffle" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" />
 <img align="left" alt="Cosmwasm" width="50px" style="padding-right:10px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzca-GdZmr98d2j_9r2W7d0ZQ4xmXU3inJWtuo_Ed-TWC082dC" />
-
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" />
+<img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Tailwind CSS" width="50px" style="padding-right:10px;" src="https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png" />
+<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/angular.gif" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" />
+<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
 <br/><br/>
 
 ### Database
