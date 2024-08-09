@@ -69,8 +69,9 @@
 
 <div style="display: flex; align-items: center">
   <h1> 
+    My GitHub Stats 
     <a href="#-my-github-stats--">
-      My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
+      <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
     </a>
   </h1>
 </div>
