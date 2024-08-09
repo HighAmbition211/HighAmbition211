@@ -22,10 +22,12 @@
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
 <img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" /><br/>
-<br/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" />
 <img align="left" alt="Solidity" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" />
+<img align="left" alt="Golang" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="Solidity" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" />
 
+</br></br>
 
 ### Libraries
 
@@ -41,8 +43,10 @@
 <img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" />
 <img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
 <img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
-<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" /><br/>
-<br/>
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" />
+<img align="left" alt="Bootstrap" width="50px" style="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/4e5341d9cc45977db8c23d3a647b0fad13e74248/New%20folder/New%20folder/ethers-seeklogo.svg" />
+
+<br/><br/>
 
 ### Database
 
