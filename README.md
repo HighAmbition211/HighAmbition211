@@ -21,12 +21,12 @@
 
 <a href="https://www.w3schools.com/js/"><img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
-<a><img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  </a>
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" />  
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" />  
-<img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" />  
-<img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" />  
-<img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" />  
+<a href="https://www.php.net/"><img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" /></a>
+<a href="https://www.java.com/"><img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" /></a>
+<a href="https://hardhat.org/"><img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" /></a>
+<a href="https://go.dev/"><img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" /></a>
+<a href="https://www.rust-lang.org/"><img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" /></a>
 <br/><br/>
 
 ### Libraries
