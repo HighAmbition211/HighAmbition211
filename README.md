@@ -44,7 +44,9 @@
 <img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
 <img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
 <img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" />
-<img align="left" alt="Bootstrap" width="50px" style="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/4e5341d9cc45977db8c23d3a647b0fad13e74248/New%20folder/New%20folder/ethers-seeklogo.svg" />
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/4e5341d9cc45977db8c23d3a647b0fad13e74248/New%20folder/New%20folder/ethers-seeklogo.svg" />
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/W/web3-logo-03377DB11E-seeklogo.com.png" />
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/52079682?s=280&v=4" />
 
 <br/><br/>
 
