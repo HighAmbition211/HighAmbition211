@@ -2,7 +2,7 @@
 
 <h1> 💫 About Me  </h1>
 
-<img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" />
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
 
 <br/><br/>
 <h4>
@@ -11,10 +11,10 @@
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 </h4>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="#--about-me--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/><br/>
 
-<h1> My Skill Sets <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></a> </h1>
 
 
 ### Languages
@@ -65,7 +65,7 @@
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/333562/kubernetes.svg" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353929/jenkins.svg" /><br/></a>
 <br/><br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="#-my-skill-sets--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div style="display: flex; align-items: center">
   <h1> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px> </h1>
@@ -73,17 +73,17 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">  
-    <img src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" />  
+    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
+    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
   </div>  
-  <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank">  
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" />  
+  <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank">
+    <a href="#-my-github-stats--"><img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
   </a>  
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" />
+  <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 <h2>If you found this project useful or interesting, please consider giving it a <a href="https://github.com/HighAmbition211/HighAmbition211/#"><img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> star.</a> If you'd like to use this template, feel free to <a href="https://github.com/HighAmbition211/HighAmbition211/fork">Fork</a> it and customize it to your needs!</h2>
 
   
 
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" style="margin-top: 20px;" />  
+  <a href="#-my-github-stats--"><img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" style="margin-top: 20px;" /></a>
 </div>
