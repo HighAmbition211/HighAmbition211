@@ -2,7 +2,6 @@
 
 <h1> 💫 About Me  </h1>
 
-![](assets/Summary.svg)<br/><br/><br/>
 <img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" />
 
 <br/><br/>
@@ -10,16 +9,18 @@
 - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
 - 📦 Blockchain enthusiast with 6+ years of experience in designing, developing, and deploying innovative solutions<br/>
 - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/><h4>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/><h4><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/><br/>
+
+
 
 <h1> My Skill Sets <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 
 
 ### Languages
 
-<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/10cdcc1da848534455620865dc7aaef1ad458aeea1bd54e4cb3ceccce582abde/68747470733a2f2f692e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f3230302e77656270" />
+<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/97ab0969b42bb33d27d0762e613661ea5c9196598bb9d414178b503b03839a02/68747470733a2f2f692e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f3230302e77656270" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
 <img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
@@ -72,11 +73,16 @@
 <img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/333562/kubernetes.svg" />
 <img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353929/jenkins.svg" /><br/>
 
-<br/>
+<br/><br/>
 
-### Others
-
-<img title="Temi Robo" align="left" alt="Temi Robo" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220040155-de098efa-a4c3-42d3-ae99-724e09360704.png" /><br /><br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br /><br />
+<div style="display: flex; align-items: center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=150&width=500&color=0:6861e3,100:7fd9e0&text=My GitHub Stats&reversal=false&fontColor=000000&fontSize=32"   
+    alt="statistics"/>
+  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
+</div>
 
 ### 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mightyeagle329&show_icons=true&locale=en&layout=compact&theme=onedark" alt="mightyeagle329" /></p>
