@@ -32,26 +32,25 @@
 ### Libraries
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/react-icon.svg" />
-<img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" />
 <img align="left" alt="jQuery" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/redux-icon.svg" />
 <img align="left" alt="Three.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 <img align="left" alt="Web3.js" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" />
-<img align="left" alt="etherjs" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" /><br/>
+<img align="left" alt="etherjs" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" />
+<img align="left" alt="Node.js" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" /><br/>
 <br/>
 
 ### Frameworks
 
-<img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" />
-<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" />
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
-<img align="left" alt="Tailwind CSS" width="50px" style="padding-right:10px;" src="https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png" />
-<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" />
 <img align="left" alt="Hardhat" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
 <img align="left" alt="Truffle" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" />
 <img align="left" alt="Cosmwasm" width="50px" style="padding-right:10px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzca-GdZmr98d2j_9r2W7d0ZQ4xmXU3inJWtuo_Ed-TWC082dC" />
-
+<img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/django-icon.svg" />
+<img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="Tailwind CSS" width="50px" style="padding-right:10px;" src="https://btihen.me/post_ruby_rails/rails_6_1_tailwind_2_0_alpinejs/featured.png" />
+<img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/angular.gif" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" />
+<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
 <br/><br/>
 
 ### Database
@@ -73,16 +72,17 @@
 <br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br /><br />
+
 <div style="display: flex; align-items: center">
   <h1> My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px> </h1>
 </div>
 
 ### 
 <div style="display:flex; align-items:center; justify-content:center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="highambition211" />  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" /> 
-</div> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" />  
+</div> <br>
+<div style="display:flex; align-items:center; justify-content:center">  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" /> </div> 
 <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
 alt="footer" />
