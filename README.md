@@ -1,8 +1,8 @@
-![](assets/Welcome.svg)
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Welcome.svg" /></a>
 
 <h1> 💫 About Me  </h1>
 
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
 
 <br/><br/>
 <h4>
