@@ -2,7 +2,7 @@
 
 <h1> 💫 About Me  </h1>
 
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
 
 <br/><br/>
 <h4>
@@ -81,9 +81,7 @@
   </a>  
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-<h2>If you found this project useful or interesting, please consider giving it a <a href="https://github.com/HighAmbition211/HighAmbition211/#"><img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> star.</a> If you'd like to use this template, feel free to <a href="https://github.com/HighAmbition211/HighAmbition211/fork">Fork</a> it and customize it to your needs!</h2>
+  <h2>If you found this project useful or interesting, please consider giving it a <a href="https://github.com/HighAmbition211/HighAmbition211/#"><img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> star.</a> If you'd like to use this template, feel free to <a href="https://github.com/HighAmbition211/HighAmbition211/fork">Fork</a> it and customize it to your needs!</h2> 
 
-  
-
-  <a href="#-my-github-stats--"><img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" style="margin-top: 20px;" /></a>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" style="margin-top: 20px;" /></a>
 </div>
