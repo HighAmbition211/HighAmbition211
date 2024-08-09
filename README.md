@@ -19,18 +19,15 @@
 
 ### Languages
 
-<img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/10cdcc1da848534455620865dc7aaef1ad458aeea1bd54e4cb3ceccce582abde/68747470733a2f2f692e67697068792e636f6d2f6d656469612f584178796c524d43647062455755417672382f3230302e77656270" />
-<img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/97ab0969b42bb33d27d0762e613661ea5c9196598bb9d414178b503b03839a02/68747470733a2f2f692e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f3230302e77656270" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
-<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" />
-<img align="left" alt="Solidity" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" />
-<img align="left" alt="Golang" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="Solidity" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" />
-
-</br></br>
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />  
+<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />  
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" />  
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" />  
+<img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" />  
+<img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" />  
+<img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" />  
+<br/><br/>
 
 ### Libraries
 
@@ -83,15 +80,9 @@
 
 ### 
 <div style="display:flex; align-items:center;">  
-  <div>  
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" /></p>  
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="highambition211" />  
-  </div>  
-  <div style="display:flex; justify-content:center; align-items:center; margin-left: 20px;">  
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" />  
-  </div>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="highambition211" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent&" alt="highambition211" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HighAmbition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454)](https://git.io/streak-stats" /> 
 </div> 
-<div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
-  alt="footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+alt="footer" />
