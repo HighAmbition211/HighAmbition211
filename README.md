@@ -5,12 +5,12 @@
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
 
 <br/><br/>
-<h4>
+<h3>
   - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
   - 📦 Blockchain enthusiast with 6+ years of experience in designing, developing, and deploying innovative solutions<br/>
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
-</h4>
+</h3>
 <a href="#--about-me--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/><br/>
 
