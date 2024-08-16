@@ -1,8 +1,8 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Welcome.svg" /></a>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Welcome.svg" /></a>
 
 <h1> 💫 About Me  </h1>
 
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Summary.svg" /></a>
 
 <br/><br/>
 <h3>
@@ -78,12 +78,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">  
-    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
-    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
+    <a href="#-my-github-stats--"><img width="57%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
+    <a href="#-my-github-stats--"><img width="42.455%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
   </div>  
-  <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank">
-    <a href="#-my-github-stats--"><img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
-  </a>  
+  <a href="#-my-github-stats--" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
   <h2>
@@ -100,4 +98,4 @@
   </h2> 
 </div>
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="assets/Finish.svg" /></a>
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Finish.svg" /></a>
