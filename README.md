@@ -83,7 +83,7 @@
   <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
 </div>
 
-<p align=center style="display: flex; justify-content: center; margin-top: 20px;" target="_blank">
+<p align=center>
   <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/left.webp"></a>
   <a href="#-my-github-stats--"><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
   <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/right.webp"></a>
