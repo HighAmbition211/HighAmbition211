@@ -84,9 +84,9 @@
 </div>
 
 <p align=center>
-  <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/left.webp"></a>
-  <a href="#-my-github-stats--"><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
-  <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/right.webp"></a>
+  <img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/left.webp">
+  <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" />
+  <img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/right.webp">
 </p>
 
 <div align=center>
