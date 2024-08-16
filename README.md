@@ -78,8 +78,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">  
-    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
-    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
+    <a href="#-my-github-stats--"><img width="53.7189752%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
   </div>  
   <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank">
     <a href="#-my-github-stats--"><img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
