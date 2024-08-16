@@ -87,11 +87,9 @@
     
    
   <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; margin-top: 20px;" target="_blank">
-    <p align="center">
-      <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/left.webp"></a>
-      <a href="#-my-github-stats--"><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
-      <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/right.webp"></a>
-    </p>
+    <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/left.webp"></a>
+    <a href="#-my-github-stats--"><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
+    <a href="#-my-github-stats--"><img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/right.webp"></a>
   </a> 
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
   <a href="#-my-skill-sets--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
