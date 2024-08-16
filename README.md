@@ -80,7 +80,7 @@
 
 <div align=center>  
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-    <a href="#-my-github-stats--"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
+    <a href="#-my-github-stats--"><img align="left" width="53.719%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
     <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
   </div>  
   
