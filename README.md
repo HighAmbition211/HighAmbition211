@@ -76,25 +76,29 @@
   </h1>
 </div>
 
-  <a href="#-my-github-stats--"><img align="left" width="53.7189752%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
-  <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">  
+    <a href="#-my-github-stats--"><img align="left" width="53.7189752%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
+    <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
+  </div>  
+  <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank">
+    <a href="#-my-github-stats--"><img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
+  </a>  
+  <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
-<a href="#-my-github-stats--"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
-<a align=center href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
-<a align=center href="#-my-skill-sets--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h2>
-  If you found this project useful or interesting, please consider giving it a 
-  <a href="https://github.com/HighAmbition211/HighAmbition211/#">
-    <img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> 
-    <span style="font-size: 1.5em; color: gold;">Star</span>
-  </a>.
-  If you'd like to use this template, feel free to 
-  <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
-    Fork
-  </a> 
-  it and customize it to your needs!
-</h2>
+  <h2>
+    If you found this project useful or interesting, please consider giving it a 
+    <a href="https://github.com/HighAmbition211/HighAmbition211/#">
+      <img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> 
+      <span style="font-size: 1.5em; color: gold;">Star</span>
+    </a>.
+    If you'd like to use this template, feel free to 
+    <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
+      Fork
+    </a> 
+    it and customize it to your needs!
+  </h2> 
+</div>
 
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Finish.svg" /></a>
