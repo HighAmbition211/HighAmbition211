@@ -72,24 +72,19 @@
 <div style="display: flex; align-items: center">
   <h1> 
     My GitHub Stats 
-    <a href="#-my-github-stats--">
-      <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
-    </a>
+    <a href="#-my-github-stats--"><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px></a>
   </h1>
 </div>
 
-<div align=center style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <a href="#-my-github-stats--"><img align="left" width="53.719%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
-  <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
-</div>
-
-<p align=center>
-  <img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/left.webp">
-  <img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" />
-  <img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/right.webp">
-</p>
-
-<div align=center>
+<div align=center>  
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <a href="#-my-github-stats--"><img align="left" width="53.7189752%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
+    <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
+  </div>   
+  <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; margin-top: 20px;" target="_blank">
+      <a href="#-my-github-stats--"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
+    </p>
+  </a> 
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
   <a href="#-my-skill-sets--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
