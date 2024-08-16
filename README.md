@@ -18,14 +18,16 @@
 
 
 ### Languages
+<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" /></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" /></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" /></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" /></a>
-<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" /></a>
-<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" /></a>
+<a href="https://cplusplus.com/doc/tutorial/" target="_blank"><img align="left" alt="C Plus Plus" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/5cbf52740afc324c4f1a132543c6de32bf96ef976e482aca9d374589dd1b3d4d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" /></a>
+<a href="https://www.w3schools.com/cs/" target="_blank"><img align="left" alt="C sharp" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" /></a>
 <br/><br/>
 
 ### Libraries
@@ -58,7 +60,7 @@
 <br/><br/>
 
 ### Tools
-<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/Github.gif" /></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/aws-icon.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/docker-icon.svg" /></a>
@@ -76,28 +78,35 @@
   </h1>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
-  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">  
-    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
-    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
+<div align=center>  
+  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <a href="#-my-github-stats--"><img align="left" width="85%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
+    <a href="#-my-github-stats--"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
   </div>  
-  <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank">
-    <a href="#-my-github-stats--"><img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
-  </a>  
+  
+    
+   
+  <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; margin-top: 20px;" target="_blank">
+    <img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/left.webp">
+    <a href="#-my-github-stats--"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
+    <img height="150" width="150" src="https://raw.githubusercontent.com/CryptoTopStar/cryptotopstar/main/WEBP/right.webp">
+  </a> 
   <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
-
-  <h2>
-    If you found this project useful or interesting, please consider giving it a 
-    <a href="https://github.com/HighAmbition211/HighAmbition211/#">
-      <img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> 
-      <span style="font-size: 1.5em; color: gold;">Star</span>
-    </a>.
-    If you'd like to use this template, feel free to 
-    <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
-      Fork
-    </a> 
-    it and customize it to your needs!
-  </h2> 
+  <a href="#-my-skill-sets--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </div>
+
+<h2>
+  If you found this project useful or interesting, please consider giving it a 
+  <a href="https://github.com/HighAmbition211/HighAmbition211/#">
+    <img src="https://camo.githubusercontent.com/180845d061c0e223ec293cc2fb1f01ed5a2ca248688b6682c851810d27489552/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" style="width:25px"> 
+    <span style="font-size: 1.5em; color: gold;">Star</span>
+  </a>.
+  If you'd like to use this template, feel free to 
+  <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
+    Fork
+  </a> 
+  it and customize it to your needs!
+</h2>
+
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="assets/Finish.svg" /></a>
