@@ -80,7 +80,7 @@
   <div align=center style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <a href="#-my-github-stats--"><img align="left" width="53.7189752%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
     <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
-  </div><br>
+  </div>
   <a align=center href="https://git.io/streak-stats" style="display: flex; justify-content: center; margin-top: 20px;" target="_blank">
     <a href="#-my-github-stats--"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
   </a> 
