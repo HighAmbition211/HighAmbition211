@@ -1,8 +1,8 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Welcome.svg" /></a>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Welcome.svg" /></a>
 
 <h1> 💫 About Me  </h1>
 
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Summary.svg" /></a>
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="assets/Summary.svg" /></a>
 
 <br/><br/>
 <h3>
@@ -18,16 +18,14 @@
 
 
 ### Languages
-<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" /></a>
-<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" /></a>
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/python-icon.svg" /></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/java-icon.svg" /></a>
-<a href="https://cplusplus.com/doc/tutorial/" target="_blank"><img align="left" alt="C Plus Plus" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/5cbf52740afc324c4f1a132543c6de32bf96ef976e482aca9d374589dd1b3d4d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" /></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"><img align="left" alt="C sharp" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/ca8676621360fbaf31b9aca54d45d5e19e1695ca8247bbb216eaeb81ea05cd85/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667" /></a>
+<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" /></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" /></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" /></a>
 <br/><br/>
 
 ### Libraries
@@ -60,7 +58,7 @@
 <br/><br/>
 
 ### Tools
-<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" /></a>
+<a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/Github.gif" /></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/aws-icon.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/docker-icon.svg" /></a>
@@ -72,14 +70,16 @@
 <div style="display: flex; align-items: center">
   <h1> 
     My GitHub Stats 
-    <a href="#-my-github-stats--"><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px></a>
+    <a href="#-my-github-stats--">
+      <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
+    </a>
   </h1>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
   <div style="display: flex; justify-content: center; align-items: center; width: 100%;">  
-    <a href="#-my-github-stats--"><img align="left" width="53.7189752%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
-    <a href="#-my-github-stats--"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
+    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
+    <a href="#-my-github-stats--"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
   </div>  
   <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank">
     <a href="#-my-github-stats--"><img src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
@@ -100,5 +100,4 @@
   </h2> 
 </div>
 
-
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Finish.svg" /></a>
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="assets/Finish.svg" /></a>
