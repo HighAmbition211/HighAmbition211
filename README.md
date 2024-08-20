@@ -59,11 +59,11 @@
 
 ### Tools
 <a href="https://github.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kingpig-dev/Useful_svgs/main/New%20folder/New%20folder/Github.gif" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/177234682/356423480-8ff1cd9b-0321-490b-9a34-da157c4708c1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240820T092254Z&X-Amz-Expires=300&X-Amz-Signature=11505ceac5662d0eab8c89d665e0ff7e1a57d2551b39b8ceaa4c6e644eac015a&X-Amz-SignedHeaders=host&actor_id=136550624&key_id=0&repo_id=840076175" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/aws-icon.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/docker-icon.svg" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/333562/kubernetes.svg" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353929/jenkins.svg" /><br/></a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://github-production-user-asset-6210df.s3.amazonaws.com/177234682/356423480-8ff1cd9b-0321-490b-9a34-da157c4708c1.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240820T092254Z&X-Amz-Expires=300&X-Amz-Signature=11505ceac5662d0eab8c89d665e0ff7e1a57d2551b39b8ceaa4c6e644eac015a&X-Amz-SignedHeaders=host&actor_id=136550624&key_id=0&repo_id=840076175" /></a>
 <br/><br/>
 <a href="#-my-skill-sets--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
