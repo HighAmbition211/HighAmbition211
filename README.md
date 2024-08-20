@@ -52,7 +52,7 @@
 <br/><br/>
 
 ### Database
-<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/29e4cf0ae40d79d307c550c0a1b2326de3303b24af50668bb50fcf82bbd4bbad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f74416a62357079434542684562386a5778432f67697068792e676966" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/mysql-icon.svg" /></a>
 <br/><br/>
