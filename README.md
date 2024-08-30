@@ -23,7 +23,7 @@
 <a href="https://www.php.net/" target="_blank"><img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/solidity" /></a>
+<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/solidity.svg" /></a>
 <a href="https://go.dev/" target="_blank"><img align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/golang.svg" /></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="Rust" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/rust.svg" /></a>
 <br/><br/>
