@@ -1,8 +1,8 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Welcome.svg" /></a>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/0d6288d8643fdd516c2196eb311bca851376bfce/others/Welcome.svg" /></a>
 
 <h1> 💫 About Me  </h1>
 
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/e5713c27dbf0a94e7c9368be9d9840c9a504b7e3/assets/Summary.svg" /></a>
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/0d6288d8643fdd516c2196eb311bca851376bfce/others/Summary.svg" /></a>
 
 <br/><br/>
 <h3>
@@ -11,10 +11,10 @@
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 </h3>
-<a href="#--about-me--"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/0d6288d8643fdd516c2196eb311bca851376bfce/others/colorful_line.gif"></a>
 <br/><br/>
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></a> </h1>
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/0d6288d8643fdd516c2196eb311bca851376bfce/others/skill.gif" width = 32px></a> </h1>
 
 
 ### Languages
