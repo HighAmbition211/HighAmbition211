@@ -4,7 +4,6 @@
 
 <a href="#--about-me--"><img align="center" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
-<br/><br/>
 <h3>
   - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
   - 📦 Blockchain enthusiast with 6+ years of experience in designing, developing, and deploying innovative solutions<br/>
@@ -59,7 +58,7 @@
 <br/><br/>
 
 ### Tools
-<a href="https://github.com/" target="_blank"><img align="center" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
+<a href="https://github.com/" target="_blank"><img align="center" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
 <a href="https://aws.amazon.com/" target="_blank"><img align="center" alt="AWS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
 <a href="https://www.docker.com/" target="_blank"><img align="center" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img align="center" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
@@ -76,25 +75,37 @@
   </h1>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">  
-  <div style="display: flex; justify-content: center; align-items: center; width: 100%;">  
-    <a href="#-my-github-stats--"><img width="57%" src="https://github-readme-stats.vercel.app/api?username=highambition211&show_icons=true&locale=en&theme=transparent" alt="highambition211" /></a>
-    <a href="#-my-github-stats--"><img width="42.455%" src="https://github-readme-stats.vercel.app/api/top-langs?username=highambition211&show_icons=true&locale=en&layout=compact&theme=transparent" alt="highambition211" /></a> 
-  </div>  
-  <a href="#-my-github-stats--" style="display: flex; justify-content: center; width: 100%; margin-top: 20px;" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=highambition211&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="GitHub Streak" /></a>
-  <a href="#-my-github-stats--"><img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
+<table align="center">
+  <tr>
+    <td align="center" width="40%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=HighAmbition211&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="HighAmbition211" /></a>
+    </td>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HighAmbition211&theme=2077" alt="HighAmbition211" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="40%">
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Highambition211&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="HighAmbition211" /></a>
+    </td>
+    <td align="center" width="60%">
+        <a href="#-my-github-stats--"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=HighAmbition211&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true" alt="HighAmbition211" /></a>
+    </td>
+  </tr>
+</table>
 
-  <h2>
-    If you found this project useful or interesting, please consider giving it a 
-    <a href="https://github.com/HighAmbition211/HighAmbition211/#">
-      <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> Star
-    </a>.
-    If you'd like to use this template, feel free to 
-    <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
-      Fork
-    </a> 
-    it and customize it to your needs!
-  </h2> 
-</div>
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
+
+<h2>
+  If you found this project useful or interesting, please consider giving it a 
+  <a href="https://github.com/HighAmbition211/HighAmbition211/#">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" style="width:25px"> Star
+  </a>.
+  If you'd like to use this template, feel free to 
+  <a href="https://github.com/HighAmbition211/HighAmbition211/fork">
+    Fork
+  </a> 
+  it and customize it to your needs!
+</h2> 
 
 <a href="#"><img align="center" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
