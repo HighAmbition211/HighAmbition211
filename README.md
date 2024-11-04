@@ -1,4 +1,4 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:C5E8B7,25:ABE098,50:83D475,75:57C84D,100:2EB62C&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 
 <h1> 💫 About Me  </h1>
 
