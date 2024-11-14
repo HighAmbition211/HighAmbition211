@@ -31,6 +31,7 @@
 <a href="https://jquery.com/" target="_blank"><img align="left" alt="jQuery" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img align="left" alt="Node.js" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+<a href="https://www.chaijs.com/" target="_blank"><img align="left" alt="Chai" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/chai.svg" /></a>
 <br/><br/>
 
 ### Frameworks
@@ -40,6 +41,8 @@
 <a href="https://angular.dev/" target="_blank"><img align="left" alt="Angular" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
 <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
+<a href="https://mochajs.org/" target="_blank"><img align="left" alt="Mocha" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/mocha.png" /></a>
+<a href="https://jestjs.io/" target="_blank"><img align="left" alt="Jest" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jest.jpg" /></a>
 <!-- <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a> -->
 <br/><br/>
 
@@ -57,10 +60,7 @@
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jest.jpg" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/chai.svg" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/mocha.png" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Postman.png" /><br/></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="Postman" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Postman.png" /><br/></a>
 <br/><br/>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
@@ -93,7 +93,7 @@
 </table>
 
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
-
+a
 <h2>
   If you found this project useful or interesting, please consider giving it a 
   <a href="https://github.com/HighAmbition211/HighAmbition211/#">
