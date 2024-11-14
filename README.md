@@ -129,12 +129,12 @@
         <br><h4>MySQL</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/cassandra.jpeg" /></a>
-        <br><h4>PostgreSQL</h4>
+        <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img alt="Cassandra" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/cassandra.jpeg" /></a>
+        <br><h4>Cassandra</h4>
     </td>
     <td align="center" width="90">
-        <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/oracle.png"/></a>
-        <br><h4>PostgreSQL</h4>
+        <a href="https://www.oracle.com/" target="_blank"><img alt="Oracle" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/oracle.png"/></a>
+        <br><h4>Oracle</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
