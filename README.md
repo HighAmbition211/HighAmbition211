@@ -57,6 +57,7 @@
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /></a>
+<a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jest.jpg" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/chai.png" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/mocha.png" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/postman.png" /><br/></a>
