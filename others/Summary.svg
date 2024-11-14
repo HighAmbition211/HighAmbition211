@@ -19,15 +19,6 @@
             Full Stack Developer
         </textPath>
     </text>
-    <path id="path1">
-        <!-- Single line -->
-        <animate id="d1" attributeName="d" begin="d0.end" dur="6000ms" fill="remove" values="m0,50 h0 ; m0,50 h670 ; m0,50 h670 ; m0,50 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
-    </path>
-    <text font-family="&quot;Pacifico&quot;, monospace" fill="#36BCF7" font-size="28" dominant-baseline="middle" x="50%" text-anchor="middle" letter-spacing="normal">
-        <textPath xlink:href="#path1">
-            Proficient in Blockchain development
-        </textPath>
-    </text>
     <path id="path2">
         <!-- Single line -->
         <animate id="d2" attributeName="d" begin="d1.end" dur="6000ms" fill="remove" values="m0,50 h0 ; m0,50 h670 ; m0,50 h670 ; m0,50 h0" keyTimes="0;0.66666666666667;0.83333333333333;1"/>
