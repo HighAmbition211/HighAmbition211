@@ -50,7 +50,6 @@
         <br><h4>Python</h4>
     </td>
 </table>
-<br/><br/>
 
 ### Libraries
 <table>
@@ -81,7 +80,6 @@
     <td align="center" width="90">
     </td>
 </table>
-<br/><br/>
 
 ### Frameworks
 <table>
@@ -116,7 +114,6 @@
     <td align="center" width="90">
     </td>
 </table>
-<br/><br/>
 
 ### Database
 <table>
@@ -147,7 +144,6 @@
     <td align="center" width="90">
     </td>
 </table>
-<br/><br/>
 
 ### Tools
 <table>
@@ -180,7 +176,6 @@
     <td align="center" width="90">
     </td>
 </table>
-<br/><br/>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
